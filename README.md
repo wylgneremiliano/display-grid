@@ -41,14 +41,13 @@ O `grid-template-areas` é uma propriedade do CSS Grid que permite nomear áreas
   background: lightcoral;
 }
 
+```
 
-### HTML
-
-
+```html
 <div class="container">
   <header class="header">Header</header>
   <aside class="sidebar">Sidebar</aside>
   <main class="content">Content</main>
   <footer class="footer">Footer</footer>
 </div>
-
+```
